@@ -72,8 +72,7 @@ classification binaire, annulation hôtelière, validation temporelle, F1-score,
 
 **🔗 Liens utiles :**
 
-- [**LIEN VERS LA VIDÉO DE PRÉSENTATION** — à compléter](https://www.youtube.com/)
-- [Lien vers le dépôt GitHub — à compléter](https://github.com/)
+- [**LIEN VERS LA VIDÉO DE PRÉSENTATION** — https://drive.google.com/file/d/1ZPnaFtKZU0h9jU_MFZCGcnND6aogtGnL/view?usp=drivesdk]
 
 ---
 
