@@ -15,6 +15,7 @@ Réalisé au sein de **ISPM — Madagascar** ([www.ispm-edu.com](https://www.isp
 - classe : IGGLIA 4
 - numéro : 05
 - rôle : Responsable EDA & baseline & présentation video (analyse exploratoire, valeurs manquantes, régression logistique de référence)
+- [présentation vidéo](https://drive.google.com/file/d/1ZPnaFtKZU0h9jU_MFZCGcnND6aogtGnL/view?usp=sharing)
 
 #### Membre 2
 
